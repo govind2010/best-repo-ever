@@ -1,5 +1,5 @@
 # best-repo-ever
 
-Made changes in myfeature branch two
+Made changes in myfeature branch new branch 1 two
 
-This is branch two
+This is new branch 1 two
